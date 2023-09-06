@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
+
+* {
+    font-family: 'Nunito', sans-serif;
+    font-size: 18px;
+
+}
+
+body {
+    background-image: url(images/cozinhadefundo.jpg);
+    background-size: 100% 100%;
+    background-position: center;
+    background-attachment: fixed;
+
+
+    color: yellow;
+
+}
+
+#sidebar a {
+    color: yellow;
+
+}
+
+.recipe-content {
+    text-align: center;
+    align-items: center;
+    max-width: 200%;
+    color: white;
+}
+
+h2 {
+    font-size: 23px;
+    color: yellow;
+    
+}
+
+.tomate {
+    color: yellow;
+    font-size: 20;
+
+}
+
+.fundo-branco {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.fundo-preto{
+    background-color: black;
+}
